@@ -20,6 +20,6 @@ MAX_TARGET = 2**256//2**32 - 1
 PERSIST = False
 WORKER_PORT = 8559
 BOOTSTRAP_ADDRS = ''
-ANNOUNCE_CHANNEL = '#p2pool'
+ANNOUNCE_CHANNEL = '#atcp2pool'
 VERSION_CHECK = lambda v: 50700 <= v < 60000 or 60010 <= v < 60100 or 60400 <= v
 VERSION_WARNING = lambda v: 'Upgrade Bitcoin to >=0.8.5!' if v < 80500 else None
