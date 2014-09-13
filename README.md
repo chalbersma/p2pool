@@ -1,3 +1,8 @@
+Summary: 
+------------------------
+
+A port of p2pool to work with [ATC](http://therealaltcoin.org/).
+
 Requirements:
 -------------------------
 Generic:
