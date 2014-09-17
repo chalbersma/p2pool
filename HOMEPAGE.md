@@ -36,6 +36,18 @@ Current Testing Nodes (Contact if you wish to run a testing Node)
  python ./run_p2pool.py --give-author 0 --fee 1 --net altcoin -a 12djAcViRDNpfzkBEpN2N1RXCDocNi41BV --bitcoind-config-path /Path/to/altcoin.conf
 ```
 
+### Howto Connect
+
+Use the following information to connect to the server.
+
+Connection Info: ```<servername or IP>:8559```
+Username: ```1mebitcoinadress023kdfa```
+Password: ```x```
+
+Optionally if your bringing a lot of TH/s to the Node you can manually set a higher difficulty by adding +<diff> at the end. Example: ```1mebitcoinadress023kdfa+1024```
+
+```
+
 ### Full runtime Options:
 
 ```
