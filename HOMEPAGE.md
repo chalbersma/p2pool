@@ -46,8 +46,6 @@ Password: ```x```
 
 Optionally if your bringing a lot of TH/s to the Node you can manually set a higher difficulty by adding +<diff> at the end. Example: ```1mebitcoinadress023kdfa+1024```
 
-```
-
 ### Full runtime Options:
 
 ```
