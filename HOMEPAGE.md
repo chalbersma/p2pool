@@ -22,6 +22,22 @@ Current Testing Nodes (Contact if you wish to run a testing Node)
 
 ### Runtime Options
 
+### How to install:
+
+1. Install [Altcoin](http://therealaltcoin.org/)
+1. Go to Install Direcotry
+2. Pull Version down. Depending on wether you want the latest and greatest or the last stable branch.
+    1. ```<Latest Release URL>```
+    2. ```git clone https://github.com/chalbersma/p2pool```
+
+### Example Runtime:
+
+```
+ python ./run_p2pool.py --give-author 0 --fee 1 --net altcoin -a 12djAcViRDNpfzkBEpN2N1RXCDocNi41BV --bitcoind-config-path /Path/to/altcoin.conf
+```
+
+### Full runtime Options:
+
 ```
 usage: run_p2pool.py [-h] [--version]
                      [--net {altcoin,bitcoin,fastcoin,litecoin,terracoin}]
