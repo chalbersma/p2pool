@@ -13,7 +13,7 @@ Current Testing Nodes (Contact if you wish to run a testing Node)
 
 | Node		| IP					| Sponsor								|
 |:----------|:----------------------|:--------------------------------------|
-| Name TBD  | 104.131.60.126:8559	| [Mircea Popescu](http://trilema.com/) & [Bitrecruiter](http://bitrecruiter.com/) |
+| Name TBD  | 104.131.60.126:8559	| [Mircea Popescu](http://trilema.com/)|
 | ATC P2Pool Dev Box | 72.135.98.192:8559 | [MWGUY](http://mwguy.us/) |
 
 ## Documentation
